@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2_VongLap", "B2_VongLap\B2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2_1_Menu_Lap", "B2_1_Menu_Lap\B2_1_Menu_Lap.csproj", "{347022AA-C1A3-4956-B16D-69CC7FDFE690}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3_OOP_DongGoi", "B3_OOP_DongGoi\B3_OOP_DongGoi.csproj", "{EF7B69A0-B033-4D54-B8A0-935E1E57E25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3_TapHop", "B3_TapHop\B3_TapHop.csproj", "{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{347022AA-C1A3-4956-B16D-69CC7FDFE690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347022AA-C1A3-4956-B16D-69CC7FDFE690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347022AA-C1A3-4956-B16D-69CC7FDFE690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7B69A0-B033-4D54-B8A0-935E1E57E25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7B69A0-B033-4D54-B8A0-935E1E57E25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7B69A0-B033-4D54-B8A0-935E1E57E25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7B69A0-B033-4D54-B8A0-935E1E57E25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
