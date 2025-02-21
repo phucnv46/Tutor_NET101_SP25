@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3_OOP_DongGoi", "B3_OOP_Do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3_TapHop", "B3_TapHop\B3_TapHop.csproj", "{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4_OOP_KeThua", "B4_OOP_KeThua\B4_OOP_KeThua.csproj", "{DB348A13-3FFE-4AA7-BA80-F60D5877C120}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD82CDEB-7412-4940-A0A2-E5D17F35C5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB348A13-3FFE-4AA7-BA80-F60D5877C120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB348A13-3FFE-4AA7-BA80-F60D5877C120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB348A13-3FFE-4AA7-BA80-F60D5877C120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB348A13-3FFE-4AA7-BA80-F60D5877C120}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
