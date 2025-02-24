@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4_OOP_KeThua", "B4_OOP_KeT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B5_OnTap1", "B5_OnTap1\B5_OnTap1.csproj", "{835E1422-9EA6-4262-A23C-5ED24D06723C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B6_OnTap2", "B6_OnTap2\B6_OnTap2.csproj", "{FD19083F-8B22-43C5-9AE3-E3D4A96FB405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{835E1422-9EA6-4262-A23C-5ED24D06723C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{835E1422-9EA6-4262-A23C-5ED24D06723C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{835E1422-9EA6-4262-A23C-5ED24D06723C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD19083F-8B22-43C5-9AE3-E3D4A96FB405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD19083F-8B22-43C5-9AE3-E3D4A96FB405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD19083F-8B22-43C5-9AE3-E3D4A96FB405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD19083F-8B22-43C5-9AE3-E3D4A96FB405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
